@@ -20,7 +20,14 @@ async function getWeather() {
         .catch(error => console.error('Error on fetching', error));
 }   
 
+last_updated = document.querySelector('.lastUp')
+temperature = document.querySelector('.temperature.temp')
+condition = document.querySelector('.condition')
+
 getWeather()
     .then(wheather => {
-        console.log(wheather);
     })
+
+   
+
+    
