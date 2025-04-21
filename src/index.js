@@ -1,6 +1,6 @@
 const api = {
     key: "36058318179c4e5884a202551252004",
-    base: "http://api.weatherapi.com/v1"
+    base: "https://api.weatherapi.com/v1"
 }
 
 async function getWeather() {
