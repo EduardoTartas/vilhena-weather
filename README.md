@@ -2,7 +2,7 @@
 # Weather
 
 <p align="center">
-  <img src="images/image.png" alt="Weather Icon" width="600">
+  <img src="images/image.png" alt="Weather Icon" width="850px">
 </p>
 
 🇧🇷 Este projeto é uma aplicação de clima que busca dados meteorológicos em tempo real para Vilhena, Rondônia, utilizando a WeatherAPI. A aplicação exibe a temperatura atual, condição climática e o horário da última atualização.
@@ -27,4 +27,4 @@
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/vilhena-weather.git
+   git clone https://github.com/EduardoTartas/vilhena-weather.git
