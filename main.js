@@ -13,6 +13,7 @@ async function getWeather() {
                 last_updated: data.current.last_updated,
                 condition: data.current.condition.text,
                 icon: data.current.condition.icon,
+                region: data.location.region,
             };
             return wheather;
         })
